@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../GachaTest/ResultViewController.swift">
+   </FileRef>
+   <FileRef
       location = "self:GachaTest.xcodeproj">
    </FileRef>
 </Workspace>
